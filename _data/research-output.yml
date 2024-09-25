@@ -70,7 +70,7 @@
   date: '2024-05-01'
   link: https://doi.org/gg7m48
   id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: https://pan.webis.de/img/organizations/logo-clef24.png
   # extra-links:
   # - type: manubot
   #   link: https://greenelab.github.io/knowledge-graph-review/
@@ -90,7 +90,7 @@
   date: '2024-08-26'
   link: https://aclanthology.org/2024.arabicnlp-1.36/
   id: doi:10.18653/v1/2024.arabicnlp-1.36
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: https://upload.wikimedia.org/wikipedia/en/7/72/Association_for_Computational_Linguistics_logo.svg
   tags:
     - Dual Phsase BERT
     - Multiclass Classification
@@ -108,7 +108,7 @@
   date: '2024-06-10'
   link: https://aclanthology.org/2024.semeval-1.123/
   id: doi:10.18653/v1/2024.semeval-1.123
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: https://upload.wikimedia.org/wikipedia/en/7/72/Association_for_Computational_Linguistics_logo.svg
   tags:
     - Semantic Textual Relatedness
     - Similarity Prediction 
@@ -123,7 +123,7 @@
   date: '2024-08-05'
   link: https://aclanthology.org/2024.semeval-1.123/
   id: doi:10.18653/v1/2024.semeval-1.123
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: https://miniodis-rproxy.lisn.upsaclay.fr/prod-public/logos/20798/a0c6a/logo.png
   tags:
     - BERT
     - Multiclass Classfication  
