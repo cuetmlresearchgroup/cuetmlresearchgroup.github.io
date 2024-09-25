@@ -12,7 +12,7 @@
   date: '2023-12-06'
   link: https://aclanthology.org/2023.banglalp-1.19/
   id: doi:10.18653/v1/2023.banglalp-1.19
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: images\acl_logo.png
   tags:
   - Hierarchical-BERT
   - Text detection
