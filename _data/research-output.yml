@@ -12,7 +12,7 @@
   date: '2023-12-06'
   link: https://aclanthology.org/2023.banglalp-1.19/
   id: doi:10.18653/v1/2023.banglalp-1.19
-  image: images\acl_logo.png
+  image: https://upload.wikimedia.org/wikipedia/en/7/72/Association_for_Computational_Linguistics_logo.svg
   tags:
   - Hierarchical-BERT
   - Text detection
@@ -32,7 +32,7 @@
   date: '2023-12-01'
   link: https://aclanthology.org/2023.banglalp-1.39/
   id: doi:10.18653/v1/2023.banglalp-1.39
-  image: https://en.wikipedia.org/wiki/Association_for_Computational_Linguistics#/media/File:Association_for_Computational_Linguistics_logo.svg
+  image: https://upload.wikimedia.org/wikipedia/en/7/72/Association_for_Computational_Linguistics_logo.svg
   tags:
   - BERT
   - Sentiment Analysis
@@ -53,7 +53,7 @@
   date: '2024-08-15'
   link: https://aclanthology.org/2024.arabicnlp-1.52/
   id: doi:10.18653/v1/2024.arabicnlp-1.52
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: https://upload.wikimedia.org/wikipedia/en/7/72/Association_for_Computational_Linguistics_logo.svg
   tags:
   - AraBERT, bert-base-arabic
   - Sentiment Analysis
