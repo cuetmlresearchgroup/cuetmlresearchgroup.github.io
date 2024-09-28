@@ -9,10 +9,10 @@
 # An arbitrary type that the resource list component can filter by.
 
 # image:
-# Url to a striking image of the resource
+# link to a striking image of the resource
 
 # link:
-# Url to link to
+# link to link to
 
 # description:
 # Description text to show
@@ -25,96 +25,96 @@
   image: images/deep_learning_python.png
   description: Deep Learning with Python by François Chollet offers an intuitive introduction to deep learning using the Keras library. It covers core concepts, practical applications, and hands-on examples for building neural networks.
   # repo: combine-lab/alevin-fry
-  url: https://www.manning.com/books/deep-learning-with-python
+  link: https://www.manning.com/books/deep-learning-with-python
 
 - title: Transformers for Natural Language Processing
   type: books
   image: images/transformer_nlp.png
   description: Transformers for Natural Language Processing (Second Edition) guides readers through building, training, and fine-tuning transformer models for NLP tasks. It covers cutting-edge tools like Hugging Face, GPT-3, ChatGPT, and GPT-4 with practical Python implementations.
   repo: https://www.packtpub.com/en-us/product/transformers-for-natural-language-processing-9781803247335
-  url: https://www.packtpub.com/en-us/product/transformers-for-natural-language-processing-9781803247335
+  link: https://www.packtpub.com/en-us/product/transformers-for-natural-language-processing-9781803247335
 
 - title: Natural Language Processing with Transformers
   type: books
   image: images\transformer_orelly.png
   description: Natural Language Processing with Transformers, Revised Edition by O'Reilly provides a comprehensive guide to using transformer models for NLP. It covers state-of-the-art techniques, including training and fine-tuning models like BERT, GPT, and T5, along with practical examples and hands-on projects.
   repo: https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
-  url: https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
+  link: https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
 
 - title: Mechanics of Seq2seq Models With Attention
   type: blogs
   image: images/Attension.png
   description: Sequence-to-sequence models excel in translation and summarization but require understanding layered concepts, which visual aids can simplify.
   # repo: splatlab/mantis
-  url: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+  link: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
 - title: The Illustrated Transformer
   type: blogs
   image: images/Transformer.png
   description: The Transformer model leverages attention for faster training and parallelization, outperforming traditional models, making it ideal for cloud deployment.
   repo: https://jalammar.github.io/illustrated-transformer/
-  url: https://jalammar.github.io/illustrated-transformer/
+  link: https://jalammar.github.io/illustrated-transformer/
   
 - title: How NLP Cracked Transfer Learning (BERT)
   type: blogs
   image: images/BERT.png
   description: The BERT model (Bidirectional Encoder-Transformer) enhances NLP tasks by integrating bidirectional context with transformer architectures for improved understanding and performance.
   repo: https://jalammar.github.io/illustrated-bert/
-  url: https://jalammar.github.io/illustrated-bert/
+  link: https://jalammar.github.io/illustrated-bert/
   
 - title: deBGR
   type: software
   repo: splatlab/deBGR
   description: deBGR a memory-efficient and near-exact representation of the weighted de Bruijn Graph. Our representation is based upon a recently-introduced counting filter data structure which, itself, provides an approximate representation of the weighted de Bruijn Graph.
-  url: https://github.com/splatlab/deBGR
+  link: https://github.com/splatlab/deBGR
   
 - title: squeakr
   type: software
   description: Squeakr is a k-mer-counting and multiset-representation system using the recently-introduced counting quotient filter (CQF) Pandey et al. (2017), a feature-rich approximate membership query (AMQ) data structure.
   repo: splatlab/squeakr
-  url: https://github.com/splatlab/squeakr
+  link: https://github.com/splatlab/squeakr
 
 - title: rainbowfish
   type: software
   description: Rainbow fish is succinct data structure to store and query colored DBG.
   repo: COMBINE-lab/rainbowfish
-  url: https://github.com/COMBINE-lab/rainbowfish
+  link: https://github.com/COMBINE-lab/rainbowfish
 
 - title: grouper
   type: software
   description: Grouper is a tool for clustering and annotating contigs from de novo transcriptome assemblies.
   repo: COMBINE-lab/Grouper
-  url: https://github.com/COMBINE-lab/Grouper
+  link: https://github.com/COMBINE-lab/Grouper
 
 - title: rapmap
   type: software
   description: RapMap is a tool for quasi-mapping and selective alignment of sequencing reads against a transcriptome. 
   repo: COMBINE-lab/RapMap
-  url: https://github.com/COMBINE-lab/RapMap
+  link: https://github.com/COMBINE-lab/RapMap
 
 - title: sailfish
   type: software
   description: Rapid alignment-free quantification of isoform abundance.
   repo: kingsfordgroup/sailfish
-  url: https://github.com/kingsfordgroup/sailfish
+  link: https://github.com/kingsfordgroup/sailfish
 
 - title: ghost
   type: software
   description: GHOST is a software package for global biological network alignment. It computes alignments based on a novel spectral signature for comparing the topological similarity of nodes across networks.
   repo: rob-p/GHOST
-  url: https://github.com/rob-p/GHOST
+  link: https://github.com/rob-p/GHOST
 
 - title: armatus
   type: software
   description: Multiresolution domain calling software for chromosome conformation capture interaction matrices.
   repo: kingsfordgroup/armatus
-  url: https://github.com/kingsfordgroup/armatus
+  link: https://github.com/kingsfordgroup/armatus
 
 - title: matryoshka
   type: software
   description: Hierarchical domain calling software for chromosome conformation capture datasets. Basad on the multiresolution domain calling tool, Armatus. (http://www.cs.cmu.edu/~ckingsf/software/armatus/).
   repo: COMBINE-lab/matryoshka
-  url: https://github.com/COMBINE-lab/matryoshka
+  link: https://github.com/COMBINE-lab/matryoshka
 
 
 - title: PyTorch Tutorials - Complete Beginner Course
@@ -122,18 +122,18 @@
   type: playlist
   description: The PyTorch Tutorials - Complete Beginner Course offers a comprehensive introduction to PyTorch, covering foundational concepts and practical applications for deep learning.
   # repo: geetduggal/growcode
-  url: https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
+  link: https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
 
 - title: 100 Days of Deep Learning
   type: playlist
   image: images/dl.png
   description: 100 Days of Deep Learning provides a structured, hands-on approach to mastering deep learning concepts through daily lessons, projects, and practical exercises.
   # repo: kingsfordgroup/parana2
-  url: https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
+  link: https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
 - title: Machine Learning Tutorial Python | Machine Learning For Beginners
   type: playlist
   image: images/ml.png
   description: The Machine Learning Tutorial Python offers beginners a comprehensive introduction to machine learning concepts, tools, and techniques using Python for practical applications.
   # repo: COMBINE-lab/RapClust
-  url: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+  link: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw

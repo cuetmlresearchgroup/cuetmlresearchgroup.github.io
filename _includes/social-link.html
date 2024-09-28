@@ -55,6 +55,19 @@
 {%- assign link = "/feed.xml" | absolute_url -%}
 {%- endif -%}
 
+
+{%- if include.type == "gate" -%}
+{%- assign icon = "fa-brands fa-researchgate" -%}
+{%- assign text = "Google Scholar" -%}
+{%- assign link = include.link | default: site.gate | default: "" | prepend: "https://www.researchgate.net/profile/" -%}
+{%- endif -%}
+
+{%- if include.type == "linkedin" -%}
+{%- assign icon = "fa-brands fa-linkedin" -%}
+{%- assign text = "Google Scholar" -%}
+{%- assign link = include.link | default: site.linkedin | default: "" | prepend: "https://www.linkedin.com/in/" -%}
+{%- endif -%}
+
 {%- comment -%}
 To add more options for icons, see:
 https://fontawesome.com/icons?d=gallery&q=icon&m=free
