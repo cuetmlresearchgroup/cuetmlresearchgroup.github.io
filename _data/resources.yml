@@ -22,10 +22,10 @@
 
 - title: Deep Learning with Python
   type: books
-  image: images/salmon_logo.png
+  image: images/deep_learning_python.png
   description: Deep Learning with Python by François Chollet offers an intuitive introduction to deep learning using the Keras library. It covers core concepts, practical applications, and hands-on examples for building neural networks.
-  repo: combine-lab/alevin-fry
-  url: https://github.com/COMBINE-lab/alevin-fry
+  # repo: combine-lab/alevin-fry
+  url: https://www.manning.com/books/deep-learning-with-python
 
 - title: alevin-fry
   type: software
