@@ -38,6 +38,7 @@ is a list of lab alumni (if you feel you're missing from the list and would like
 {% include team-list.html role="pi" group="alum" mini="true" %}
 {% include team-list.html role="phd_g" group="alum" mini="true" %}
 {% include team-list.html role="undergrad" group="alum" mini="true" %}
+{% include team-list.html role="grad" group="alum" mini="true" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
