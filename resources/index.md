@@ -12,10 +12,15 @@ The following software is primarily developed or maintained by the COMBINE-lab o
 by members of the COMBINE-lab in conjunction with others.
 
 {% capture html %}
+{% include resource-list.html type="books" size="large" %}
+{% endcapture %}
+{% include centerer.html html=html %}
+
+{% capture html %}
 {% include resource-list.html type="software" size="large" %}
 {% endcapture %}
-
 {% include centerer.html html=html %}
+
 
 {% capture html %}
 {% include resource-list.html type="other" size="medium" %}
