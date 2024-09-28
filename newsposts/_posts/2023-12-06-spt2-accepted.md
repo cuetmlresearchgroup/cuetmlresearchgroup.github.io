@@ -1,6 +1,7 @@
 ---
 title: EmptyMind at BLP-2023 Task 1: A Transformer-based Hierarchical-BERT Model for Bangla Violence-Inciting Text Detection
 author: Udoy Das, Karnis Fatema, Md Ayon Mia, Mahshar Yahan, Md Sajidul Mowla, Md Fayez Ullah, Arpita Sarker, Hasan Murad
+member: udoy
 category: news
 tags:
   - Hierarchical-BERT

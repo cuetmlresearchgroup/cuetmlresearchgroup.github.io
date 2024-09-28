@@ -1,6 +1,7 @@
 ---
 title: EmptyMind at BLP-2023 Task 2: Sentiment Analysis of Bangla Social Media Posts using Transformer-Based Models
 author: Karnis Fatema, Udoy Das, Md Ayon Mia, Md Sajidul Mowla, Mahshar Yahan, Md Fayez Ullah, Arpita Sarker, Hasan Murad
+member: karnis
 category: news
 tags:
   - BERT
