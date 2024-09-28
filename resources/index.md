@@ -11,13 +11,13 @@ title: Resources
 The following software is primarily developed or maintained by the COMBINE-lab or 
 by members of the COMBINE-lab in conjunction with others.
 
-<!-- {% capture html %}
+{% capture html %}
 {% include resource-list.html type="books" size="large" %}
 {% endcapture %}
-{% include centerer.html html=html %} -->
+{% include centerer.html html=html %}
 
 {% capture html %}
-{% include resource-list.html type="software" size="large" %}
+{% include resource-list.html type="books" size="large" %}
 {% endcapture %}
 {% include centerer.html html=html %}
 
