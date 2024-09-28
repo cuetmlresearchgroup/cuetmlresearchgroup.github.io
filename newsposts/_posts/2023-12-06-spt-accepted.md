@@ -5,7 +5,6 @@ category: news
 tags:
   - Hierarchical-BERT
   - Text detection
-published: 06-Dec-2023
 ---
 
 <!-- Uncomment below code if paper is published! -->

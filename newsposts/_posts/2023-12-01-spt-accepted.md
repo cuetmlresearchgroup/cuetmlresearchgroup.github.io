@@ -5,7 +5,6 @@ category: news
 tags:
   - BERT
   - Sentiment Analysis
-published: 01-Dec-2023
 ---
 
 <!-- Uncomment below code if paper is published! -->
