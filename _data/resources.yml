@@ -22,7 +22,7 @@
 
 - title: Deep Learning with Python
   type: books
-  image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781617294433/deep-learning-with-python-9781617294433_lg.jpg
+  image: images/salmon_logo.png
   description: "Deep Learning with Python" by François Chollet offers an intuitive introduction to deep learning using the Keras library. It covers core concepts, practical applications, and hands-on examples for building neural networks.
   repo: combine-lab/salmon
   url: https://www.manning.com/books/deep-learning-with-python
