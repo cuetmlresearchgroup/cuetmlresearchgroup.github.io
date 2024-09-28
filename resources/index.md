@@ -15,12 +15,10 @@ The listed books provide a solid foundation in Deep Learning, Machine Learning, 
 {% endcapture %}
 {% include centerer.html html=html %}
 
-## Software
-The following software is primarily developed or maintained by the COMBINE-lab or 
-by members of the COMBINE-lab in conjunction with others.
-
+## Blogs
+Here are some insightful blogs on Machine Learning (ML), Deep Learning (DL), Transformers, BERT, attention mechanisms and so on.
 {% capture html %}
-{% include resource-list.html type="software" size="large" %}
+{% include resource-list.html type="blogs" size="large" %}
 {% endcapture %}
 {% include centerer.html html=html %}
 
