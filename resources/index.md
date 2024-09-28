@@ -6,7 +6,7 @@ title: Resources
 
 <!-- section break -->
 
-## Software
+## Books
 
 The following software is primarily developed or maintained by the COMBINE-lab or 
 by members of the COMBINE-lab in conjunction with others.
@@ -16,8 +16,12 @@ by members of the COMBINE-lab in conjunction with others.
 {% endcapture %}
 {% include centerer.html html=html %}
 
+## Software
+The following software is primarily developed or maintained by the COMBINE-lab or 
+by members of the COMBINE-lab in conjunction with others.
+
 {% capture html %}
-{% include resource-list.html type="books" size="large" %}
+{% include resource-list.html type="software" size="large" %}
 {% endcapture %}
 {% include centerer.html html=html %}
 
