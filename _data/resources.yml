@@ -20,12 +20,12 @@
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
 
-- title: Deep Learning with Python
-  type: books
+- title: Python book
+  type: software
   image: images/salmon_logo.png
-  description: "Deep Learning with Python" by François Chollet offers an intuitive introduction to deep learning using the Keras library. It covers core concepts, practical applications, and hands-on examples for building neural networks.
-  repo: combine-lab/salmon
-  url: https://www.manning.com/books/deep-learning-with-python
+  description: Something
+  repo: combine-lab/alevin-fry
+  url: https://www.freecodecamp.org/news/git-reverting-to-previous-commit-how-to-revert-to-last-commit/
 
 - title: alevin-fry
   type: software
