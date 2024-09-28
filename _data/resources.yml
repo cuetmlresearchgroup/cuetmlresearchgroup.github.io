@@ -117,20 +117,23 @@
   url: https://github.com/COMBINE-lab/matryoshka
 
 
-- title: growcode
-  type: legacy
-  description: A non-parametric framework for learning how networks grow.
-  repo: geetduggal/growcode
-  url: https://github.com/geetduggal/growcode
+- title: PyTorch Tutorials - Complete Beginner Course
+  image: images/pytorch.png
+  type: playlist
+  description: The PyTorch Tutorials - Complete Beginner Course offers a comprehensive introduction to PyTorch, covering foundational concepts and practical applications for deep learning.
+  # repo: geetduggal/growcode
+  url: https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
 
-- title: Parana
-  type: legacy
-  description: Parana is a tool to perform ancestral reconstruction of biological networks.
-  repo: kingsfordgroup/parana2
-  url: https://github.com/kingsfordgroup/parana2
+- title: 100 Days of Deep Learning
+  type: playlist
+  image: images/dl.png
+  description: 100 Days of Deep Learning provides a structured, hands-on approach to mastering deep learning concepts through daily lessons, projects, and practical exercises.
+  # repo: kingsfordgroup/parana2
+  url: https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
-- title: rapclust
-  type: legacy
-  description: RapClust is a tool for clustering contigs from de novo transcriptome assemblies (it is the predecessor of Grouper).
-  repo: COMBINE-lab/RapClust
-  url: https://github.com/COMBINE-lab/RapClust
+- title: Machine Learning Tutorial Python | Machine Learning For Beginners
+  type: playlist
+  image: images/ml.png
+  description: The Machine Learning Tutorial Python offers beginners a comprehensive introduction to machine learning concepts, tools, and techniques using Python for practical applications.
+  # repo: COMBINE-lab/RapClust
+  url: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw

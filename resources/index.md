@@ -22,15 +22,16 @@ Here are some insightful blogs on Machine Learning (ML), Deep Learning (DL), Tra
 {% endcapture %}
 {% include centerer.html html=html %}
 
-## Youtube Playlist
+
 {% capture html %}
 {% include resource-list.html type="other" size="medium" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
-## YouTube Video
+## Youtube Playlist
+Here are some insightful free YouTube playlist on Machine Learning (ML), Deep Learning (DL), Pytorch and so on.
 {% capture html %}
-{% include resource-list.html type="legacy" size="small" %}
+{% include resource-list.html type="playlist" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
