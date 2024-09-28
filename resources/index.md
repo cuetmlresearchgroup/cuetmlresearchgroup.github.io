@@ -22,13 +22,13 @@ Here are some insightful blogs on Machine Learning (ML), Deep Learning (DL), Tra
 {% endcapture %}
 {% include centerer.html html=html %}
 
-
+## Youtube Playlist
 {% capture html %}
 {% include resource-list.html type="other" size="medium" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
-
+## YouTube Video
 {% capture html %}
 {% include resource-list.html type="legacy" size="small" %}
 {% endcapture %}
