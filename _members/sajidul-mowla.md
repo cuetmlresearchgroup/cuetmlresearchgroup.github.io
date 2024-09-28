@@ -3,7 +3,7 @@ title: Md Sajidul Mowla
 search:
   - Sajid
   - Sajidul
-role: undergrad
+role: grad
 group: alum
 image: images/sajidul-mowla.png
 email: smsajid7300@gmail.com

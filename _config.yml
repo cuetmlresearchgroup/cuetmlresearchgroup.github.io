@@ -3,11 +3,13 @@
 # site-wide variables
 title: CUET ML Research Group # title of site, used in tab name and elsewhere
 email: cuetmlresearchgroup@gmail.com # default email
-# google: Rob Patro # default name to search on Google Scholar
+google: VLDlaZ4AAAAJ # default name to search on Google Scholar
 github: cuetmlresearchgroup # default GitHub user/org, without the @
-# twitter: nomad421 # default Twitter handle, without the @
-#instagram: fakeinstagramhandle # default Instagram handle, without the @
-#youtube: fakeyoutubechannel # default YouTube channel handle
+gate: Hasan-Murad
+linkedin: hasan-murad-3527152b2
+twitter: hasanmurad # default Twitter handle, without the @
+instagram: fakeinstagramhandle # default Instagram handle, without the @
+youtube: fakeyoutubechannel # default YouTube channel handle
 
 # base directory where site is hosted
 # set to "" if hosting at a custom domain, eg yoursite.com
