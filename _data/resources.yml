@@ -29,13 +29,14 @@
 
 - title: Transformers for Natural Language Processing
   type: books
-  image: images/transformer_nlp
+  image: images/transformer_nlp.png
   description: Transformers for Natural Language Processing (Second Edition) guides readers through building, training, and fine-tuning transformer models for NLP tasks. It covers cutting-edge tools like Hugging Face, GPT-3, ChatGPT, and GPT-4 with practical Python implementations.
   repo: https://www.packtpub.com/en-us/product/transformers-for-natural-language-processing-9781803247335
   url: https://www.packtpub.com/en-us/product/transformers-for-natural-language-processing-9781803247335
 
 - title: Natural Language Processing with Transformers
   type: books
+  image: images\transformer_orelly.png
   description: Natural Language Processing with Transformers, Revised Edition by O'Reilly provides a comprehensive guide to using transformer models for NLP. It covers state-of-the-art techniques, including training and fine-tuning models like BERT, GPT, and T5, along with practical examples and hands-on projects.
   repo: https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
   url: https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
