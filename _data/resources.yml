@@ -41,24 +41,26 @@
   repo: https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
   url: https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
 
-- title: mantis
-  type: software
-  description: A fast, compact, and exact large-scale sequence-search index.  Mantis is a data structure for indexing and querying hundreds, thousands or tens of thousands (or more) sequencing experiments for the likely presense of a query string.
-  repo: splatlab/mantis
-  url: https://github.com/splatlab/mantis
+- title: Mechanics of Seq2seq Models With Attention
+  type: blogs
+  image: images/Attension.png
+  description: Sequence-to-sequence models excel in translation and summarization but require understanding layered concepts, which visual aids can simplify.
+  # repo: splatlab/mantis
+  url: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
-- title: cuttlefish
-  type: software
-  description: Cuttlefish is a fast, parallel, and very lightweight memory tool to construct the compacted de Bruijn graph from whole genome reference(s).
-  repo: COMBINE-lab/cuttlefish
-  url: https://github.com/COMBINE-lab/cuttlefish
+- title: The Illustrated Transformer
+  type: blogs
+  image: images/Transformer.png
+  description: The Transformer model leverages attention for faster training and parallelization, outperforming traditional models, making it ideal for cloud deployment.
+  repo: https://jalammar.github.io/illustrated-transformer/
+  url: https://jalammar.github.io/illustrated-transformer/
   
-- title: terminus
-  type: software
-  image: images/terminus_logo.png
-  description: Terminus is a program for analyzing transcript-level abundance estimates from RNA-seq data, computed using salmon, and collapsing individual transcripts into groups whose total transcriptional output can be estimated more accurately and robustly.
-  repo: combine-lab/terminus
-  url: https://github.com/COMBINE-lab/terminus
+- title: How NLP Cracked Transfer Learning (BERT)
+  type: blogs
+  image: images/BERT.png
+  description: The BERT model (Bidirectional Encoder-Transformer) enhances NLP tasks by integrating bidirectional context with transformer architectures for improved understanding and performance.
+  repo: https://jalammar.github.io/illustrated-bert/
+  url: https://jalammar.github.io/illustrated-bert/
   
 - title: deBGR
   type: software
