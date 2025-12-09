@@ -4,7 +4,23 @@ title: Research
 
 # <i class="fas fa-microscope"></i>Research
 
-Even with this excellent website template, this is the most difficult section of the website to create initially.  It requires 
-extracting our publications into **yet another format**.  While we work on creating this part of the website so that we have 
-a unified list of publications on the web that is (hopefully) easy to maintain --- you might find an unofficial list on 
-[Rob's Google Scholar page](https://scholar.google.com/citations?user=H36hOqEAAAAJ&hl=en).
+<!-- section break -->
+
+<!-- ## Card Search
+
+This is a collection of published research papers carried out under the supervision of the advisors and faculty of the CUET Machine Learning Research group.
+
+{% include card-search.html subject="papers" %} -->
+
+<!-- section break -->
+
+## Research List
+This is a collection of published research papers carried out under the supervision of the advisors and teachers of the CUET Machine Learning Research group.
+
+{% include card-search.html subject="papers" %}
+<!-- This is a collection of published research papers carried out under the supervision of the advisors and teacher of the CUET Machine Learning Research group. -->
+<!-- A _research list_ component, to sort and group all of your research publications.
+Can be used on any page, but assumes its content from `/_data/research-output.yml`.
+Uses the _card_ component (small). -->
+
+{% include research-list.html %}

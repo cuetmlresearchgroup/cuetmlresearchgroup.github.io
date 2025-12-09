@@ -13,7 +13,7 @@ redirect_from:
 ## Current Members
 
 Our lab is a team focused on improving the reach, accuracy, and speed of computational analysis, specifically as
-it relates to genomics (and Biology more broadly).  We are a varied and friendly bunch.  If you're interested in 
+it relates to Natural Language Processing.  We are a varied and friendly bunch.  If you're interested in 
 the work we're doing, please reach out!
 
 {% capture html %}
@@ -31,13 +31,14 @@ the work we're doing, please reach out!
 
 ## Alumni
 
-We are incredibly proud of all of the COMBINE-lab alumni who have passed through the lab, for whatever period of time they were with us. Below
+We are incredibly proud of all of the CUET ML Research Group alumni who have passed through the lab, for whatever period of time they were with us. Below
 is a list of lab alumni (if you feel you're missing from the list and would like to be added, please e-mail us):
 
 {% capture html %}
 {% include team-list.html role="pi" group="alum" mini="true" %}
 {% include team-list.html role="phd_g" group="alum" mini="true" %}
 {% include team-list.html role="undergrad" group="alum" mini="true" %}
+{% include team-list.html role="grad" group="alum" mini="true" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}

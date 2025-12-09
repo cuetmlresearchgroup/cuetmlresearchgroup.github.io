@@ -36,6 +36,12 @@ layout: default
 {% if page.youtube %}
 {% include social-link.html type="youtube" link=page.youtube %}
 {% endif %}
+{% if page.gate %}
+{% include social-link.html type="gate" link=page.gate %}
+{% endif %}
+{% if page.linkedin %}
+{% include social-link.html type="linkedin" link=page.linkedin %}
+{% endif %}
 {% endcapture %}
 
 {% include centerer.html html=html %}

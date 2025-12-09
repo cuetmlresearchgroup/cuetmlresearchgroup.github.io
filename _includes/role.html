@@ -21,6 +21,11 @@
 {%- assign text = "PhD (graduated)" -%}
 {%- endif -%}
 
+{%- if include.type == "grad" -%}
+{%- assign icon = "fas fa-user-graduate" -%}
+{%- assign text = "Graduate Student" -%}
+{%- endif -%}
+
 {%- if include.type == "undergrad" -%}
 {%- assign icon = "fas fa-user-graduate" -%}
 {%- assign text = "Undergraduate Student" -%}
